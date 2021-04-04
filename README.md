@@ -1,1 +1,3 @@
-# devandmus-posts
+# Devandmus Posts
+
+My own post repository.
